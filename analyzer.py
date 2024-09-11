@@ -76,7 +76,7 @@ def extract_sql_queries(file_path):
             sql_queries.append(string_content.strip())
 
     return sql_queries
-#### ----------------------------------------------------------------------------------####
+#### -----------------------------------------------------------------------------------####
 
 
 def get_var_name(sql_query):
