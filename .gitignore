@@ -1,4 +1,3 @@
 __pycache__/
+source_scripts/
 *.log
-.venv/
-graphs/
