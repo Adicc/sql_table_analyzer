@@ -174,4 +174,3 @@ def replace_var_names(file_path, sql_query):
 
 if __name__ == "__main__":
     print("analyzer.py")
-    # new line for test purpose
